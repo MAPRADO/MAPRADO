@@ -1,8 +1,10 @@
 # Marcio A. Prado
 
-Sou Designer por formação, tenho uma afinidade com a estética estrutural e atenção aos detalhes. Da gestão de projetos herdei a rotina multidisciplinar, mas me apaixonei mesmo foi pela magia da programação. Afinal, algumas linhas de código podem mudar o mundo.  
+Busco uma oportunidade na área de programação, como desenvolvedor backend em transição de carreira, de ex-gerente de projetos de TI e antes disso designer, para hoje como desenvolvedor.  
 
-No momento fazendo cursos e projetos para concretizar a transição de carreira na área de programação, estou buscando uma oportunidade de aprendizado e crescimento técnico na área de programação, como Desenvolvedor Back-End.
+O conceito do profissional em T é no meu caso um ideal. A união entre o conhecimentos como ferramenta para resolução de problemas. Trago na bagagem anos de experiência como designer, anos gerenciando projetos ao lado de backend, frontend, UX/UI, clientes e noção de metodologias ágeis. Além de conhecimento básico como frontend, em versionamento de código, linguagens de programação e ferramentas voltadas ao backend.
+
+Designer de Produto pela Faculdade de Desenho Industrial de Mauá, recentemente complementei minha formação com os cursos CC50 Introdução à Ciência da Computação, na Fundação Estudar Brasil em parceria com Harvard(CS50) e o Bootcamp da DIO.me - Potência Tech iFood, Programação do Zero, entre outras.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcioprado1/)
