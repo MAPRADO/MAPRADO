@@ -33,5 +33,9 @@ Designer de Produto pela Faculdade de Desenho Industrial de Mauá, recentemente 
 ## Top Languages
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MAPRADO&bg_color=000&border_color=30A3DC&title_color=264CE4&text_color=38BDAE&langs_count=8)](https://github.com/MAPRADO)
 
+## My Featured Project
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MAPRADO&repo=projeto_final_cs50&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=DA5B0B&title_color=264CE4&text_color=38BDAE)](https://github.com/MAPRADO/projeto_final_cs50)
+
 ## My Contributions
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MAPRADO&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=DA5B0B&title_color=264CE4&text_color=38BDAE)](https://github.com/MAPRADO/dio-lab-open-source)
+
