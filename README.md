@@ -1,10 +1,10 @@
 # Marcio A. Prado
 
-Em transição de carreira, busco oportunidade como desenvolvedor backend. Tendo atuado anteriormente como gerente de projetos de TI e designer. Agora, meu foco é como desenvolvedor.
+Em transição de carreira, busco oportunidade como desenvolvedor back-end em Python.
 
-O conceito do profissional em T é no meu caso um ideal. A união entre os conhecimentos como ferramenta para resolução de problemas. Trago na bagagem anos de experiência como designer, anos gerenciando projetos ao lado de backend, frontend, UX/UI, clientes e noções de metodologias ágeis. Além de conhecimento em frontend, em versionamento de código, linguagens de programação e ferramentas voltadas ao backend.
+Trago na bagagem anos de experiência como designer, anos gerenciando projetos ao lado de back-end, front-end, UX/UI, clientes. Além dos conhecimentos em front-end, versionamento de código, metodologias ágeis e linguagens de programação voltadas para o back-end.
 
-Designer de Produto pela Faculdade de Desenho Industrial de Mauá, recentemente complementei minha formação com os cursos CC50 Introdução à Ciência da Computação, na Fundação Estudar Brasil em parceria com Harvard(CS50) e o Bootcamp da DIO.me - Potência Tech iFood, Programação do Zero, entre outras.
+Bacharel em Design de Produto, recentemente finalizei os cursos “CC50 Introdução à Ciência da Computação”, na Fundação Estudar Brasil em parceria com Harvard(CS50) e o Bootcamp da DIO.me - Potência Tech iFood, Programação do Zero, entre outros ainda em andamento.
 
 Um case como gestor, onde colaborei da concepção à implementação de um projeto de Web Application, exclusivo para o McDonald's Brasil. Automatizando o sistema de controle de ponto, alcançamos uma significativa redução de prejuízos e aumentamos a visibilidade de irregularidades e sanções, em impressionantes 100%.
 
