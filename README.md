@@ -17,7 +17,7 @@ Um case como gestor, onde colaborei da concepção à implementação de um proj
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 [![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=0056FF)](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=0056FF)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite&logoColor=white)
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
