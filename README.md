@@ -34,6 +34,8 @@ Um case como gestor, onde colaborei da concepção à implementação de um proj
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-000?style=for-the-badge&logo=jira&logoColor=white)
 
 ## GitHub Stats
