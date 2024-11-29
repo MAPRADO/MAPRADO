@@ -32,7 +32,7 @@ Um case como gestor, onde colaborei da concepção à implementação de um proj
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-000?style=for-the-badge&logo=pythonanywhere&logoColor=%232F9FD7.svg)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Express.js](https://img.shields.io/badge/express.js-000?.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
