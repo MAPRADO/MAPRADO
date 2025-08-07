@@ -1,6 +1,6 @@
 # Marcio A. Prado
 
-Em transição de carreira, busco oportunidade como desenvolvedor back-end em Python.
+Hoje atuo na Análise e Desenvolvimento de Produtos Digitais. Sou responsável por recepcionar, refinar e enriquecer as sugestões de melhorias que chegam dos clientes ou internamente. E assim auxiliar nossos Designers de Produto, na priorização e na construção de novas features.
 
 Trago na bagagem anos de experiência como designer, anos gerenciando projetos ao lado de back-end, front-end, UX/UI, clientes. Além dos conhecimentos em front-end, versionamento de código, metodologias ágeis e linguagens de programação voltadas para o back-end.
 
